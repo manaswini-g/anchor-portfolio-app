@@ -10,15 +10,15 @@ Anchor is a life-aware, AI-powered portfolio management system designed for peop
 
 | Onboarding | Dashboard |
 |---|---|
-| ![Onboarding](screenshots/1-onboarding.png) | ![Dashboard](screenshots/2-dashboard.png) |
+| ![Onboarding](screenshots/onboarding.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Scenario Engine | Future Self Simulation |
 |---|---|
-| ![Scenario](screenshots/4-scenario.png) | ![Future Self](screenshots/5-future-self.png) |
+| ![Scenario](screenshots/scenario.png) | ![Future Self](screenshots/future-self.png) |
 
 | Stock Holdings | Action Plan |
 |---|---|
-| ![Stocks](screenshots/3-stocks.png) | ![Recommendation](screenshots/6-recommendation.png) |
+| ![Stocks](screenshots/stocks.png) | ![Recommendation](screenshots/recommendation.png) |
 
 ---
 
